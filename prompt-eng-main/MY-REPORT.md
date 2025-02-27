@@ -1,8 +1,8 @@
 ![GenI-banner](https://github.com/genilab-fau/genilab-fau.github.io/blob/8d6ab41403b853a273983e4c06a7e52229f43df5/images/genilab-banner.png?raw=true)
 
-# {A smart nutrition and fitness bot that provides personalized diet and workout plans using advanced reasoning and AI-driven prompting techniques.}
+# {AI-Powered Nutrition & Fitness Coach.}
 
-* Authors: [NAME1](http://www.YOURPAGE.xxx), [NAME_n](http://www.YOURPAGE.xxx)
+* Authors: [Venkatesh Reddy Ningam ](Vningam2024@fau.edu), [Tippasani Hitesh Reddy](Htippasani2024@fau.edu),[Amera Sai Pavan](samera2025@fau.edu)
 * Academic Supervisor: [Dr. Fernando Koch](http://www.fernandokoch.me)
 
  
